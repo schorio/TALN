@@ -22,3 +22,7 @@ def traitement(nom_fichier):
     t_txt = open(nom_fichier, "r")
     Text_txt = t_txt.read()
     text_txt = (Text_txt).lower()
+    extraction(text_txt)
+    
+
+traitement('texte.txt')
