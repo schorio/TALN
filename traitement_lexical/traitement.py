@@ -58,3 +58,8 @@ def traitement(nom_fichier):
     
     # Afficher le nombre de mot touver
     print("\n le nb de mot trouver : " , len(liste_mots))
+    
+    # Affchage du synonyme et definition de chaque mot trouver
+    for mot in liste_mots:
+        synonyme(mot)
+        definition(mot)
