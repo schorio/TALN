@@ -1,0 +1,35 @@
+La seconde phrase sera interprétée comme une réponse négative si l’on sait que Marie n’aime pas Paul.
+Cette interprétation n’est pas de nature sémantique. À partir de la compréhension du sens de l’intervention
+de Marie, Pierre réalise une inférence logique en utilisant une connaissance contextuelle, l’inimitié entre
+Paul et Marie. Pierre conclut que Marie ne veut pas aller au bal, autrement dit il reconstruit l’attitude de
+Marie par rapport à son propre énoncé. Cette opération n’est pas une construction conceptuelle, c’est une
+opération logique. Elle appartient donc à la pragmatique.
+Le niveau pragmatique possède ses propres lois. De même qu’au niveau sémantique, on s’attend à ce que tout
+énoncé ait un sens (i.e. permette une construction conceptuelle), on s’attend au niveau pragmatique à ce que
+tout énoncé soit pertinent. C’est cette contrainte de pertinence qui nous permet de prêter à Marie et à Pierre
+l’inférence conduisant au refus d’aller au bal. En d’autres termes, nous nous attendons à ce que la mention
+de la présence de Paul soit logiquement connectée à l’intention de Marie d’aller ou non au bal. Certaines
+ambiguïtés sont de nature purement pragmatique. Par exemple, le sens de "il pleut " n’est généralement
+pas ambigu. En revanche, l’attitude qu’on veut communiquer est ambiguë. Veut-on signifier qu’il faut se
+désoler (on ne pourra pas aller se promener) ou se rejouir (on n’aura pas besoin d’arroser la pelouse) ? Seul
+le contexte pragmatique et la capacité à faire des inférences permettront à l’auditeur de lever cette ambiguïté.
+Concernant les applications, la demande de TALN provient, pour dire vite, de deux tendances « lourdes » :
+d’une part la nécessité de concevoir des interfaces de plus en plus ergonomiques, d’autre part la nécessité
+de pouvoir traiter (produire, lire, rechercher, classer, analyser, traduire) de manière de plus en plus « intelli-
+gente » les informations disponibles sous forme textuelle, de manière à pouvoir résister à leur prolifération
+exponentielle. Les applications des techniques de TAL sont donc nombreuses et variées. Nous avons re-
+groupé ces applications en trois grandes familles, qui correspondent aux aides à la lecture de documents,
+aux aides à la production de documents, et enfin aux interfaces homme-machines. Ces familles d’applica-
+tions sont détaillées dans les paragraphes qui suivent.
+L’étude du langage naturel et des mécanismes nécessaires à la mise en œuvre à son traitement automatique
+par des machines est un domaine d’études foisonnant, et riche en applications potentielles ou émergentes.
+De nombreux progrès restent à accomplir pour mieux comprendre cette faculté et pour bâtir des systèmes
+capables de soutenir la comparaison avec l’humain, mais l’état des connaissances en permet aujourd’hui de
+proposer de nombreuses solutions efficaces à des problèmes et des demandes réels.
+Une des limitations de pratiquement tous les systèmes de traitement un peu sophistiqués est qu’ils font appel
+à une somme importante de connaissance d’expert : lexiques, règles de grammaires, réseaux sémantiques...
+Ceci explique en partie pourquoi il n’existe pas de système de traitement qui soit à la fois complet (i.e.
+intégrant tous les niveaux de traitement) et indépendant du domaine (i.e. capable de traiter avec une même
+efficacité n’importe quel type de texte). Il existe une autre raison, moins visible, qui limite l’avancée des
+progrès en TALN, et qui est que, pour un bon nombre de phénomènes, l’ état de la connaissance linguistique
+est insuffisament formalisée pour pouvoir être utilisée par les concepteurs de systèmes de TALN.
