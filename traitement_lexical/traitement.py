@@ -55,3 +55,6 @@ def traitement(nom_fichier):
         
     # supression des emplacement libre dans le tableau
     liste_mots = list(filter(lambda x: x!="",mots))
+    
+    # Afficher le nombre de mot touver
+    print("\n le nb de mot trouver : " , len(liste_mots))
