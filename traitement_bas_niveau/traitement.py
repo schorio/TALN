@@ -16,3 +16,9 @@ def extraction(text):
     # Calcul de la moyenne de la longueur des mots
     moyenne_longueur = sum(len(mot) for mot in liste_mots) / len(liste_mots) if liste_mots else 0
     print("\n Moyenne de la longueur des mots : ", moyenne_longueur)
+    
+
+def traitement(nom_fichier): 
+    t_txt = open(nom_fichier, "r")
+    Text_txt = t_txt.read()
+    text_txt = (Text_txt).lower()
