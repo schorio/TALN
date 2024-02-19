@@ -12,3 +12,7 @@ def extraction(text):
 
     # Afficher les nombres de mot
     print("\n Nombe des mots : ", len(liste_mots))
+    
+    # Calcul de la moyenne de la longueur des mots
+    moyenne_longueur = sum(len(mot) for mot in liste_mots) / len(liste_mots) if liste_mots else 0
+    print("\n Moyenne de la longueur des mots : ", moyenne_longueur)
