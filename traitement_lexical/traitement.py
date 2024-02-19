@@ -18,3 +18,13 @@ def synonyme(mot):
     synonyms_str = ', '.join(synonyms)
 
     print("\n", mot, " = ", synonyms_str)
+    
+
+# Fonction qui affiche une definition d'un mot
+def definition(mot):
+    # Trouver tous les synsets du mot
+    synsets = wn.synsets(mot)
+
+    # Afficher la definition du premier synonyme
+    if synsets:
+        print(mot, " : ", synsets[0].definition())
