@@ -63,3 +63,6 @@ def traitement(nom_fichier):
     for mot in liste_mots:
         synonyme(mot)
         definition(mot)
+        
+
+traitement('texte.txt')
