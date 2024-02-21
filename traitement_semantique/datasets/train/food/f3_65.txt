@@ -1,0 +1,19 @@
+34
+Food consumption in the UK
+Box 5 Examples of segmentation approaches found in the literature
+Emotional associations: One study investigated emotional 
+association to meals, comparing responses to ‘memorable’ and 
+‘routine’ meals. The study found two clusters: the first cluster, which accounted for the majority of people, showed strong positive and weak negative emotional associations with meals; by contrast, the smaller second cluster showed less difference between the level of positive and negative emotional associations. Psychographic variables, such as level of engagement in meals, and their difficulty in describing feelings, accounted better for these differences than socio-demographic factors (Piqueras-Fiszman & Jaeger, 2016). 
+Seasonal food behaviours: Another study used glossy magazines, Glamour and Cosmopolitan, 
+to look at different food practices during the year based on food advertising and identified three 
+clusters: ‘party time’ was related to Christmas and advertising of coffee, cheese, vegetarian meat substitutes and alcohol; ‘bikini body’ was related to the summer months and had little advertising for conventional food with a strong focus on dieting; ‘going steady’ was associated with the new year and related to foods consumed every day and convenience products (Spencer et al., 2014). 
+Meat consumption:  In a 2019 study of meat consumption, six segments were identified: price 
+conscious, healthy eaters, taste driven, green, organic and vegetarian consumers. The work 
+finds statistically significant differences between the segments based on gender , age, income 
+and household structure (Apostolidis & McLeay, 2016).
+Prestige:  A study from 2017 identified four segments based on their prestige-buying practices, 
+i.e. seeking to distinguish oneself from lower-class individuals based on food purchases and 
+weekly fruit and vegetable spending: ‘ambitious shoppers’, ‘utilitarian buyers’, ‘affluent elitists’ and ‘prestige lovers’ (Palma et al., 2017). 
+Urban ‘foodscapes’:  Another study used the interactions between food, space and people 
+to determine urban foodscape character segments in the landscape of fast-food takeaway, 
+food outlets and retailers serving international cuisine, and farmer’s markets. The first type is residential, easily accessible and visibly cluttered. The second segmentation is marked by cultural symbols and decorations and has a heterogeneous and undistinguished architecture. The final type has the visual characteristics of an open market and is designed for individuals to spend time in the food environment (Roe et al., 2016).

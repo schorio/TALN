@@ -1,0 +1,40 @@
+96
+Food consumption in the UK
+Following piloting, researchers independently 
+recorded data about each selected paper meeting the inclusion criteria, including both general information on the publication and information on the elements of each study question it addresses. We captured information from each included study in a standard template in Excel covering the different elements of our conceptual framework and in line with the aims and objectives of this study: 
+1. General information about the evidence source
+• Author, year and study title
+• Brief summary
+• Study type (e.g. experimental/randomised controlled trial, cohort/longitudinal, cross-sectional/factorial, meta-analysis, synthesis)
+• Methodology (e.g. qualitative data collection, quantitative data collection, mixed methods)
+• Publication type (e.g. journal article, review, book chapter)
+• Coverage of study (temporal, geographic)
+2. Evidence on trends in consumer practices and attitudes
+• Trends in types of food purchased/consumed
+• Trends in attitudes, values and beliefs
+• Trends in channels through which food is purchased/consumed
+• Trends in purchasing frequency and volume
+• Other trends
+40 Adapted from Sirriyeh et al., 2012.
+41 Good-quality sources in this context are considered to be those where the r ating against the criteria set out for our 
+quality review is predominantly ‘green’ (though likely with some ‘amber’ elements in most cases) and there are no ‘red’ 
+characteristics. • International comparators (examples 
+of international practice in measuring trends)
+3. Evidence on drivers of food consumption
+• External drivers
+• Personal and household level drivers
+4. Policy interventions (including evidence of effectiveness)
+• Type of policy intervention
+• Description of the intervention and application
+• Evidence of effectiveness
+5. Segmentation
+• Approaches to segmentation
+• Evidence on validity 
+6. Quality review (Table 11)
+7. Other comments
+In parallel to the data extraction, we also reviewed the methodological quality of included studies. Quality appraisal helps to identify variation in quality and relevance between studies. There is no one perfect approach to quality review and the approach taken depends on the nature of the studies to be reviewed.
+Following feedback from our expert advisors, 
+we assessed the methodological quality of included studies against the following quality criteria
+40 (Table 11) using a RAG/traffic light 
+system (green: addressed clearly; amber: addressed but some gaps; red: poor/not addressed).
+41

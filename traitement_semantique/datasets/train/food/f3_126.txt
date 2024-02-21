@@ -1,0 +1,10 @@
+97
+Table 11 Criteria for quality review of studies
+Stage Examples of 
+criteriaRed Amber Green 
+Study design: is the study well designed to meet the research aims/questions?Statement of aims/objectives in main body of reportNo mention General reference to aims/objectives at some point in the reportExplicit statement of aims/objectives in main body of report
+Clear description of research setting/scope of reviewNo mention General description of research problem in the target population, e.g. ‘among young people buying food online’Specific description of the research problem and target population in the context of the study, e.g. ’young people aged 12–18 in London purchasing food from online courier services’
+Sample: is the sampling approach appropriate and well justified?Evidence of sample size considered in terms of analysis (statistical power)(quantitative studies only)No mention Basic explanation for choice of sample size
+Evidence that size of 
+the sample has been considered in study design Explicit statement of data being gathered until information redundancy/saturation was reached or to fit exact calculations for analytical requirements
+Representative sample of target group of a reasonable sizeNo statement of target groupSample is limited but represents some of the target group or representative but very small Sample includes individuals to represent a cross section of the target population, considering relevant factors

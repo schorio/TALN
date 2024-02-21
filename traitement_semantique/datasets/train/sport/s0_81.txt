@@ -1,0 +1,18 @@
+See also :industry
+Further reading : Dobson (2000), Sloane (1980), Taylor and Gratton (2000)
+ELECTRON TRANSPORT CHAIN
+The electron transport chain (ETC) is located on the inner
+membrane of the mitochondria, and is coupled to the process ofoxidative phosphorylation (or ATP synthesis). This process involves
+the movement of reducing equivalents (NADH and FADH formedduring glycolysis and in the Krebs cycle ) along the ETC, where
+electrons are stripped from the high-energy hydrogen and these
+electrons are then passed to oxygen at the end of the chain to form
+water. (Campbell 1996: 170) As electrons are transferred at eachcomplex of the chain, the resulting protons (H+) are pumped intothe inter-membrane space of the mitochondria, thus creating a gra-dient of H+ across the membrane. These H+ complete the circuit byﬂowing down their gradient (known as a proton motive force) backinto the mitochondrial matrix through speciﬁc portals, and this pro-cess in turn provides the energy for the re-phosphorylation of ADP
+to ATP . The ETC is regulated by the concentrations of adenine
+nucleotides, with ADP and ATP stimulating and inhibiting the chainrespectively.
+See also :Krebs cycle
+Further reading : Brooks et al. (1996), Campbell (1996)
+EMOTION
+The impact of emotion on performance and learning in sport andphysical activity is an understudied phenomenon. We have all experi-enced the impact of extreme excitement or fear on our heart rate.Researchers are now beginning to look more closely at the impor-tance of emotion on sport performance through assessing its impacton motivation, attention and concentration and looking at how
+adaptive coping can be used to help re-focus emotion. Hanin (2000)
+has presented a model entitled Individual Zones of Optimal Functioning(120F) as one possible approach for understanding performance-relatedEMOTION
+65

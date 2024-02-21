@@ -1,0 +1,21 @@
+94
+Food consumption in the UK
+All consultations with both academic experts 
+and wider stakeholders were conducted under the principles of informed consent in line with the requirements of the EU General Data Protection Regulation requirements and the Ethical Assurance for Social Research in Government principles. Interview notes were solely for the reference of the research team and participants were only acknowledged for their contribution in the report with their express permission. 
+Conducting searches
+We developed a search strategy with expert input from RAND Knowledge Services and based on the feedback from the stakeholder consultations in the scoping phase ( Table 9). 
+The search was conducted in the following databases: Scopus, Academic Science Complete and PubMed. For all searches, the publication timeframe was restricted to 2009 onwards to capture literature from the past ten years, and only high-quality academic publications (books, book chapters, articles and reviews) published in English were considered. Beyond the formal searches, we also used ‘snowballing’ to identify additional articles from reference lists of selected articles. A total of 3,063 potentially relevant studies were identified for screening.
+Screening
+We screened articles by title and abstract for relevance against predefined inclusion and exclusion criteria ( Table 10). 
+Table 9 Search strings for the rapid evidence assessment
+Topic Search terms
+1Consumer 
+practices and attitudesTITLE-ABS-KEY (( consum* OR customer* OR public*) w/3 (TITLE-ABS-KEY (attitude* OR opinion* OR choice* OR decision* OR perception* OR practice* OR behavio* OR demand* OR buy* OR purchas* OR preference* OR value* OR plan* OR prepar*)))
+2 Food TITLE-ABS-KEY (food* OR diet*OR eat* OR meal)
+3 TrendsTITLE-ABS-KEY (trend* OR pattern* OR change* OR shift* OR evolution OR longitudinal)
+4 DriversTITLE-ABS-KEY (driver* OR cause* OR factor* OR reason* OR determinant* OR influenc*)
+5 TypologiesTITLE-ABS-KEY (typolog* OR segment* OR social OR economic* OR socio-economic* OR cluster* OR income OR demograph* OR educat* OR employ* OR occupation* OR geog* OR ethnic* OR religio* OR cultur* OR age)
+6 EnvironmentsTITLE-ABS-KEY (environment* OR access* OR availab* OR home OR online OR courier* OR “out of home” OR out-of-home OR deliver* OR retail* OR takeaway* OR take-away* OR convenien* OR prepar*)
+7 CountryALL (“United Kingdom” OR UK OR Scotland OR England OR Wales OR “Northern Ireland” OR “Great Britain”)
+8 InterventionsALL (intervention* OR program* OR package* OR initiative* OR scheme* OR regulat* OR inform* OR educat* OR incentive* OR levy OR tax* OR label* OR certif* OR accredit* OR assurance*OR policy OR policies OR claim OR financ*)
+Search strings were: (A) (1 AND 2 AND (3 OR 4 OR 5 OR 6) AND 7); (B) (1 AND 2 AND 8)

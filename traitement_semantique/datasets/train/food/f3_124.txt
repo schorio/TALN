@@ -1,0 +1,17 @@
+95
+Table 10 Inclusion and exclusion criteria for the literature review
+Criterion Include Exclude
+Topic relevanceStudies addressing trends in consumer 
+attitudes and practices in relation to food consumption, drivers of those practices (including different actors), differences by consumer groupings/segmentation, policies/interventions to change food consumption and their effectivenessStudies addressing impact of food, diet, or consumption patterns on health and health-related behaviours (exclusion does not include health as a driver of consumption)Studies addressing the relationship between socio-economic factors and health
+Geographical locationUK, or UK with international comparatorsNon-UK
+Year of publication 2010 onwards2009 or earlier (with some exceptions, e.g. any seminal studies referenced in multiple publications within the ten-year timeframe)
+Study characteristicsAcademic publications, focusing on empirical evidence or synthesesPurely theoretical/conceptual work or opinion piecesNon-academic publications (with some exceptions, e.g. good quality reviews in the grey/industry literature)
+Language English Other languages
+The inclusion/exclusion criteria were applied in 
+three stages:
+1. Criteria were applied on the titles. Those appearing to fit the criteria, or where there is uncertainty, were included. 
+2. The abstracts of these titles were read and inclusion criteria applied again. Those fitting the criteria or those where there was uncertainty were included. In these first two stages, we were overinclusive to avoid excluding potentially relevant studies. 
+3. Reviewers retrieved full reports of studies passing the first round. Each criterion was then applied again at the full text level. 
+Following screening, a total of 484 studies were identified as meeting these initial inclusion and exclusion criteria. Due to the volume of literature identified, we further restricted our inclusion criteria to make the extraction and review process more manageable. We identified a particularly high volume of studies looking at policy interventions. Therefore, we limited our review of policy interventions to a ‘review of reviews’, covering only good-quality reviews of policy interventions and excluding primary studies. However, at the analysis stage, any key primary studies identified in reviews were explored further where required. This led to a total of 203 publications meeting the inclusion and exclusion criteria. 
+Extraction and quality review
+In this stage, information was extracted from each included publication to facilitate cross-analysis against the key study questions and themes, and the quality of the studies included assessed to inform that analysis. 

@@ -1,0 +1,19 @@
+54
+Food consumption in the UK
+issues, these are still likely to be a minority and 
+individuals do not always act in line with their views and beliefs. Factors such as income, price and perceived quality are currently some of the main barriers to sustainable and ethical consumption. Moreover, there remains a majority of the population that lacks awareness and understanding of how their food practices (e.g. meat consumption) impact the environment, and who demonstrate resistance to the idea of personal change in food practices (Garnett et al., 2015).
+There are predictable socio-economic 
+differences across broad consumption trends but the impact of wider socio-demographic factors is less clear
+There is strong evidence, including both 
+academic and from surveys, that broad consumption trends in the UK – particularly around healthy diets and socially responsible consumption – are predictably modulated by socio-economic differences. However, it should be noted that on average all socio-economic groups continue to consume an unhealthy diet. The literature also indicates that there are a variety of socio-demographic differences observed across these trends, including around age and gender; however, the evidence around the impact of these is less strong or mixed, and studies are not always adequately controlled. There is some evidence to suggest that younger consumers are more likely to eat outside of the home, shop online and to eat more sustainably, but good-quality academic studies around these questions are lacking. Table 5 provides a summary of the evidence in the literature reviewed on socio-demographic differences in food consumption practices.
+ 
+Table 5 Availability (volume) of evidence in the literature on socio-demographic differences in food consumption practices and response to interventions.   
+Factor Evidence baseQuality of 
+evidenceAvailability 
+of 
+academic 
+evidenceKey sources
+Trends
+DietLower incomes, economic deprivation and lower levels of education are associated with a poorer diet and being overweight/obese HighWidely coveredBarrett et al., 2017; Barton et al., 2015; Cribb et al., 2011; de Ridder et al., 2017; Defra, 2017; Pechey & Monsivais, 2016; Wrieden et al., 2013
+Women tend to have slightly greater consumption of healthier foods and pay more for healthy foodsModerateSome evidence Balcombe et al., 2010; Christoph et al., 2016; Defra, 2017; Micha et al., 2015; Rekhy & McConchie, 2014
+Older individuals tend to consume healthier foods overall, although it is not clear whether this a true age effect or a cohort effectLow–moderateSome evidenceAppleton et al., 2017; Lam & Adams, 2017; Micha et al., 2015

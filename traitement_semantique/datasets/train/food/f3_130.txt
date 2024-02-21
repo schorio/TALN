@@ -1,0 +1,16 @@
+101
+Of the 169 included studies, relatively few were 
+poor quality. Thirty-three received three or more ‘red’ ratings on the quality criteria, and only ten received six or more ‘reds’. These sources were used minimally and as supplementary material in the analysis conducted. Sixty-one high-quality studies, with six or more ‘green’ ratings were identified. These studies were particularly prioritised in our studies. However, the overall assessment of the strength of the evidence was qualitative, taking into account both the quality of individual studies, the number of studies reinforcing the point and, particularly, the existence (or otherwise) of prior systematic review evidence suggesting confidence in a particular finding. These factors have been combined together to give an overall assessment of the status of the existing evidence across different areas. 
+In addition to these systematic searches, a 
+number of targeted searches were conducted at the analysis stage, as described in Section A.6. This contributed an additional 25 sources, 
+primarily systematic reviews.Caveats and limitations
+The analysis presented here is subject to a number of caveats and limitations related to the approach, the scope of the literature and the analysis. Key caveats and limitations are outlined below.
+Comprehensiveness of the search 
+strategy
+The study takes a REA approach rather than 
+applying a systematic review. This places limitations on the coverage of literature included in the study. There may be important studies that have not been included, either because they were not identified through our search strategy or because they fell outside of our inclusion criteria (e.g. by date). We note that the volume of literature in the field here has been a significant challenge and we have had to place additional limitations on the scope of our approach to make the study feasible within timeframes – for example, by focusing on reviews of policy interventions. However, we are confident, based on the approach taken and our expert consultation process, that our analysis provides Table 12 Summary of study types and methodologies
+Publication type Study type Method
+157 academic sources59 reviews37 non-systematic reviews (e.g. 
+evidence syntheses, narrative reviews)16 systematic reviews5 meta-analyses1 commentary
+94 empirical research68 quantitative studies16 qualitative10 mixed method
+12 ‘grey’ literature reports6 surveys6 policy and industry reports–

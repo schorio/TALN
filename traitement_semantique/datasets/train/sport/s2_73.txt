@@ -1,0 +1,24 @@
+PENALTY KICKS
+the kicker touches the ball again before anyone else?
+Kick scored: An indirect free kick is awarded. 
+Kick missed / saved: An indirect free kick is awarded.
+the kicker does not kick the ball forward?
+Kick scored: An indirect free kick is awarded. 
+Kick missed / saved: An indirect free kick is awarded.
+the kicker and the goalkeeper both commit an offence?
+Kick scored: An indirect free kick is awarded and the kicker is shown a yellow card. 
+Kick missed / saved: An indirect free kick is awarded and the kicker is shown a yellow card.
+another player (not the identified kicker) takes the kick?
+Kick scored: An indirect free kick is awarded and the player who took the kick is shown a yellow card. 
+Kick missed / saved: An indirect free kick is awarded and the player who took the kick is shown a yellow card.
+the ball bursts/stops before reaching the goal/goalkeeper?
+Kick scored: The kick must be retaken. 
+Kick missed / saved: The kick must be retaken.
+there is outside interference with the ball before it reaches the goal?
+Kick scored: The kick must be retaken unless it is deemed that the goalkeeper could not have saved it.
+Kick missed / saved: The kick must be retaken.
+For further information, click here.continued
+The International Football Association Board 2022® All Rights Reserved. / Version 1.0 - 12/2022  theifab.com
+74/88
+FOOTBALL RULES
+SIMPLIFIED  LAWS OF THE GAME

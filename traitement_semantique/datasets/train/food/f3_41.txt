@@ -1,0 +1,18 @@
+10
+Food consumption in the UK
+(Mintel, 2018), ‘bricks and mortar’ store sales 
+currently continue to surpass online sales (ONS, 2018b). In addition, recent evidence suggests that the number of UK customers shopping online dropped between 2015 and 2018 (Mintel, 2018); however, this may be an effect of having reached saturation – an initial fast start with many early adopters, followed by slower growth in line with populations who are more used to this approach.
+ There is some 
+evidence to suggest that online sales also vary by age, with younger consumers more likely to shop online, compared to older shoppers who are less likely to shop for groceries online (Mintel, 2018).
+ Despite the recent slowdown 
+in growth, digital food shopping is predicted to increase, with food and grocery shopping likely to be more automated in the next five to ten years (IGD, 2019). Research indicates some differences in consumer practices when shopping online compared to offline, particularly around the purchase of fresh produce, although the evidence is mixed. While some evidence suggests that consumers may be less likely to buy fresh produce online due to concern about quality and freshness (Hand et al., 2009), recent analysis of one Morrisons data set (of real online grocery transactions via Morrisons Google Analytics account) suggests that contrary to some findings, consumers spent more on fresh produce when shopping online than offline (Munson et al., 2017). The Morrisons dataset also investigated price sensitivity (e.g. propensity to engage with offers), but found that online consumers were not more price sensitive than offline consumers (Munson et al., 2017). 
+There is a need to build more evidence on 
+what policies are needed to encourage healthy eating in the online setting. In an offline setting, there is considerable evidence from 
+15 Delivery only commercial kitchens with no physical customer-facing premises.the behavioural economics literature about the impact of the food micro environment (e.g. the architecture of a supermarket) on food purchases (Bucher et al., 2016; Cadario & Chandon, 2019; Hartmann-Boyce et al., 2018; Hollands et al., 2015; Houghtaling et al., 2019).  
+However, this is likely to apply very differently, if at all, in an online context. In contrast, the surfeit of information in the online context, particularly through social media, is likely to considerably influence the dynamics of healthy food purchasing and communication of food information (Garcia et al., 2019). 
+The out-of-home food 
+environment is increasingly common 
+Overall, the consumption of food and 
+beverages from outside the home has undergone considerable growth over the last decade, due to changes in consumer practices and greater flexibility in personal budgets (Jean Adams, Tyrrell, et al., 2012; FSA, 2019b). One study found that in the UK, 27 per cent of adults and 19 per cent of children consumed meals outside the home once per week or more and 21 percent of adults and children ate takeaway meals at home once per week or more (J. Adams et al., 2015). There is some evidence to suggest that attitudes have also changed in the last 20 years, with eating out becoming more informal and no longer reserved for special occasions (Paddock et al., 2017). The increase in out-of-home food consumption is also driven by the rise of digital technology and expansion of online food delivery platforms, particularly new players such as Deliveroo and Uber Eats, and the expansion of delivery-only or ‘dark’ kitchens
+15 
+(Edelman, 2019; Hirschberg et al., 2016).  

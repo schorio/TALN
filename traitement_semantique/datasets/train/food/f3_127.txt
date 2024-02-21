@@ -1,0 +1,9 @@
+98
+Food consumption in the UK
+Stage Examples of 
+criteriaRed Amber Green 
+Data collection: is the data collection approach appropriate and well justified?Description of procedure for data collectionNo mention Brief or incomplete description of data collection procedure but with limited detail, or states some stages in details but omits othersDetailed description of each stage of the data collection procedure, including when, where and how data were gathered
+Rationale for choice of data collection tool(s)No mention Basic, limited explanation of rationale for choice of data collection tool(s), e.g. based on use in a prior similar studyDetailed explanation of rationale for choice of data collection tool(s), e.g. relevance to the study aims and assessments of tool quality either statistically, e.g. for reliability and validity, or relevant qualitative assessment
+Detailed recruitment dataNo mention Some recruitment information but not complete account of the recruitment process, e.g. recruitment figures but no information on strategy usedComplete data regarding number approached, number recruited, attrition data where relevant, method of recruitment
+Statistical significance tests used and/or effect sizes computed (quantitative studies only)No statistical testingLimited or flawed statistical assessment used Suitable and thorough statistical assessment used
+Fit between stated research question and method, format and content of data collection No research question statedMethod, structure or content of data collection only addresses some aspects of the research question, or there is a more suitable alternative that could have been used or used in additionMethod, structure or content of data collection selected is the most suitable approach to attempt answer the research question

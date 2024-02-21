@@ -1,0 +1,17 @@
+99
+Stage Examples of 
+criteriaRed Amber Green 
+Analysis: are data appropriately analysed and findings adequately corroborated?  Good justification for analytical method selected in light of research questionsNo mention Basic explanation for choice of analytical method, and reasonable fit to research questions  
+ Detailed explanation for choice of analytical method based on nature of research question(s)
+Assessment of reliability of analytical process (qualitative studies only)No mention Limited attempt to assess reliability, e.g. reliance on one methodUse of a range of methods to assess reliability, e.g. triangulation, multiple researchers, varying research backgrounds
+Interpretation: does the interpretation of the findings adequately reflect the assumptions made, limitations of the method and any issues related to generalisability? Strengths and limitations critically discussedNo mention Limited discussion of some of the key strengths and weaknesses of the study but with some issues omittedDiscussion of strengths and limitations of all aspects of study including design, methods procedure, sample and analysis
+Alternative 
+explanations for the data considered and the generalisability of the conclusions explored/justified
+These criteria were chosen as they have been 
+developed to assess studies with diverse research designs (i.e. qualitative, quantitative, mixed method). Out of these, 11 of the criteria apply to qualitative studies and 10 apply to quantitative studies, but all 12 items are applicable where mixed methods have been employed. The quality criteria were piloted by the study team across a sample of studies to ensure consistency of application. Each of the three team members then applied the criteria independently to each study, assigning a rating across all 12 criteria. 
+Analysis
+Evidence was brought together using a framework synthesis approach based on the framework set out in our evidence extraction approach in Section A.5. 
+Each element of the framework was explored 
+initially by a member of the study team to identify the key trends and issues emerging. The findings were then discussed with other members of the team and then further explored. Through an iterative process of analysis and discussion we were able to identify a set of key emerging findings that are set out in this document. 
+As well as analysing the literature identified, 
+we also used targeted searches to explore in further depth any specific areas emerging as potentially important, or to test whether additional information could be identified to address specific gaps. These targeted 

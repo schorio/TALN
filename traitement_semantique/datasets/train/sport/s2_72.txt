@@ -1,0 +1,28 @@
+PENALTY KICKS
+any defenders enter the penalty arc or penalty area early?
+Kick scored: A goal is awarded.
+Kick missed / saved: The kick must be retaken.
+any attackers enter the penalty arc or penalty area early?
+Kick scored: The kick must be retaken.
+Kick missed / saved: An indirect free kick is awarded.
+attacker(s) and defender(s) enter the penalty arc or penalty area early?
+Kick scored: The kick must be retaken.
+Kick missed / saved: The kick must be retaken.
+the goalkeeper moves off the goal line early?
+Kick scored: A goal is awarded.
+Kick missed / saved: The kick must be retaken if it is saved.
+The kick is not retaken if the ball misses or rebounds from the goal and the kicker was not affected by the goalkeeper’s movement.
+If the kick is retaken, the goalkeeper must be warned for the first offence in the game and shown a yellow card for any 
+further offences in the game.
+the kicker feints at the end of the run-up and kicks the ball?
+Kick scored: An indirect free kick is awarded and the kicker is shown a yellow card.
+Kick missed / saved: An indirect free kick is awarded and the kicker is shown a yellow card.
+the kicker feints at the end of the run-up and does not kick the ball?
+Kick scored: The kick must be retaken and the kicker is shown a yellow card.
+Kick missed / saved: The kick must be retaken.
+>> moreKick scored: A goal is awarded.
+Kick missed / saved: The game carries on or, if the ball goes out of play, a goal kick or corner kick is awarded.the kicker stops during the run-up, starts again and kicks the ball?continued
+The International Football Association Board 2022® All Rights Reserved. / Version 1.0 - 12/2022  theifab.com
+73/88
+FOOTBALL RULES
+SIMPLIFIED  LAWS OF THE GAME

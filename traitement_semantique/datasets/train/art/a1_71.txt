@@ -1,0 +1,20 @@
+are done with one or several programs, or 
+applications. Digital drawings or images are stored as files in the computer’s memory.Once saved, they may be opened and re-worked.
+Most digital art applications are one of
+two main types:
+●Paint programs. In paint programs,
+images are stored as bitmaps, which are a
+series of tiny dots called pixels. It is easyto edit an image pixel by pixel. In general,paint programs have tools to createoriginal images and alter images that arescanned in or captured with a digitalcamera. Figures 3–18 and 3–19 were
+made using paint programs.
+●Draw programs. In draw programs,
+images are stored as a series of lines andcurves called vectors. Each line or curve
+used to create a shape results from a math-ematical formula. Each shape is known asan object. An advantage of draw programs
+is that objects have sharp, crisp edges andcan be resized without distortion. Think ofdraw programs as a collection of objects ora collage. Figure 3–20 on the next page
+shows an image, or “group of objects,”created in a draw program. 
+In the last decade, lines between paint and
+draw programs have begun to blur. Web de-sign and photo-enhancing programs combineaspects of each, although they mainly remainbitmap-based (Paint) or vector-based (Draw).Web design programs include animation
+tools for images that are only viewed on acomputer monitor or screen.
+Lesson 8 Digital Art 57/rhombus6Figure 3–19 How does
+this self-portrait and the one onthe facing page differ from theones in Figures 3–8 and 3–9 onpages 46–47?
+Erol Otis. Self-Portrait. 1991.
+Digital art. Courtesy of theartist.

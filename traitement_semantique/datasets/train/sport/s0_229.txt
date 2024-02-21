@@ -1,0 +1,17 @@
+event, e.g. the total runs scored in a cricket match, and then forecast
+a range within which it expects the aggregate to fall. This is calledthe spread. In this example it might be between 505 and 520 runs. Ifpunters believe that the forecast is too high they ‘sell’ at 505, and if
+too low then they ‘buy’ at 520. Alternative terminology is to place a
+‘down’ or ‘up’ bet. Winnings or losses are then determined by howfar the actuality differs from the forecast. If the total runs came to 495then those who sold would win their stake multiplied by ten (505–495) but those who bought would lose their stake multiplied bytwenty-ﬁve (520–495). If the aggregate falls within the forecast rangethen the bookmaker wins from both those who sold and those whobought, hence accurate forecasting is of prime importance.
+See also :gambling
+STANDARDISATION
+Bale has identiﬁed four major forms of standardisation in modern
+athletics. First, he sees standardisation of distances so that, for exam-
+ple, the steeplechase is now always over 3,000 metres. Second is the
+standardisation of the size and orientation of track and ﬁeld space.Third is the standardisation of criteria for victory so that stopwatchand tape measure have totally replaced style. Not until the mid-1970sdid Britain abandon a style prize in its annual walking championships.Finally there has been standardisation of micro-topology in an effortto reduce variations in – and neutralise the effects of – the naturalenvironment. In pre-modern sport, running, jumping and throwing
+took place on roads, commons and ﬁelds, all of which could vary
+between venues. Now starting blocks and synthetic surfaces offsetsuch differences. T o a degree all of these kinds of example can befound elsewhere in modern sport.
+Further reading : Bale (1993a)
+STATE SCHOOLS
+In the context of the United Kingdom this term refers to schools
+funded wholly by the public exchequer. This funding is normallymade available through the local education authority in which theschool is situated, or in the case of grant maintained schools, directlySTATE SCHOOLS
+213

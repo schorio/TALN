@@ -1,0 +1,28 @@
+Tools of the Digital Artist
+In digital art, there are tools and menus.
+The physical tools that digital artists use arecalled hardware. Hardware refers to the equip-
+ment, such as the monitor, keyboard, andprinter used in computer graphics.
+The most important tool to artists is the
+mouse, the familiar pointing and clicking de-vice. The mouse is used to draw and paint. Itis also used to make selections from themenus and toolboxes. Menus are lists of com-mands appearing in a bar at the top of thescreen. The mouse is also used as a drawingor painting device by selecting tool iconsfrom a visual side menu called a toolbox.
+58 Chapter 3 Art Media and TechniquesSelection Selects an object, 
+handles appear Draw
+Selection Selects a rectangular 
+space around an object Paint
+Lasso Selection Selects only the object, 
+no background Paint
+Text Adds letters and words Paint or Draw
+Brush Paints with varied kinds of 
+lines, patterns, and textures, 
+simulates other media Paint
+Pencil Draws lines, shapes, and 
+objects using only a Paint 
+single pixel width (sometimes  Draw)
+Ellipse or Draws ovals or (Shift key) 
+Round Shape circles Paint or DrawRectangular  Creates rectangles or (Shift 
+Shape key) squares Paint or DrawBucket Fill Adds colors, gradients, patterns 
+to enclosed shapes Paint or Draw
+Eyedropper Selects color, known as color 
+picker Paint or Draw
+/rhombus6Figure 3–21 Common on-screen tools./rhombus6Figure 3–20 The image in the upper-left was made
+from the 298 separate “objects” shown in the lower-right. Doyou recognize this familiar image?
+Tool Description Type of Program

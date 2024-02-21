@@ -1,0 +1,32 @@
+Other tools used by digital artists include
+the following:
+●Stylus and graphics tablet. In simplest
+terms, a stylus and graphics tablet areelectronic answers to the pencil andpaper. In recent years, these tools havebeen improved. The stylus responds topressure from the hand, much like a realpencil, pen, or brush and includes aneraser.  The woman in Figure 3–18 onpage 56 is shown using a stylus andgraphics tablet.
+●Scanner. Ascanner is a device that
+“reads” printed images and text. It is then translated into a language thecomputer— and the digital artist—canuse. The work in Figure 3–19 on page 57began with a photograph that the artistscanned into his computer.
+●Digital camera. Digital cameras are
+similar to traditional cameras, but imagesare saved onto a media card rather thanfilm. Captured images are then importedinto art programs where they can bemanipulated in many ways.
+On-Screen Tools
+Asecond category of tools digital artists
+work with is “on-screen” tools or desktoptools that mimic hand-held tools used by con-ventional artists. Desktop tools found in thetoolbox include pencils, pens, assortedbrushes, and even erasers. Desktop tools varyfrom program to program. The table in Fig-
+ure 3–21 shows a few common tools and the
+type of program in which each is found. Italso shows the icon, or picture symbol, com-monly used to indicate each.
+Each program or application saves the im-
+ages and text in a language or script knownas a file format. Programs usually offer sev-eral file format choices, so you can transferthe saved files to another application to takeadvantage of its unique features, tools, andmenus. Universal or common file formats are:JPEG, GIF, PICT, and PNG. 
+Lesson 8 Digital Art 59
+Check Your 
+Understanding
+1.What is the difference between a paint
+program and a draw program?
+2.Name two hardware tools and three
+desktop tools.
+Exploring Tools of Art Software
+Demonstrate technical skills. Use a
+variety of art media to produce an
+electronic media-generated artwork.Begin by launching the art application.Art applications are either based onpixels (Paint), or vector (Draw). Todiscover how to use the features of yourart software, you will draw a tree, a car,and a house. From the tools palette, findthe Pencil tool and Shape tool. To selecteach, click once. Begin drawing byclicking and dragging a shape to thesize you want.Y ou can also simply drawa line on the page with the pencil tool.
+Explore with different sizes and
+shapes. Draw the three objects so they donot touch. Fill a pencil-drawn shape withthe Fill tool. Use the Selection tool toencircle and select a shape. Move it ormake multiples. After an object isselected, choose Copy from the Editmenu, then Paste. Position copies andoverlap the objects. Click anywhere
+outside the object to paste it in place.Most importantly, if you make a mistake ordon't like an effect, immediately choosethe Undo option from the Edit menu.
+PORTFOLIO 
+Print your image and put it in your
+portfolio with an evaluation of how youexplored tools of art software.

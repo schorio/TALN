@@ -1,0 +1,26 @@
+100
+Food consumption in the UK
+searches, conducted in Google Scholar, 
+focused primarily on identifying systematic reviews and, though not included in the formal extraction and quality review process, all sources identified in this way were carefully reviewed for the quality and robustness of their approach. Examples of targeted searches conducted include ‘obesogenic environment systematic review’ and ‘systematic review workplace wellness’. These targeted searches, together with evidence identified to support other elements of the study such as the introduction section, contributed an additional 25 sources to the review overall. 
+This study sets out emerging findings based on 
+our internal review of the literature. This will be further tested in the next stage of the project through an interim workshop with Defra, discussion with our expert advisors and further expert consultation. This will help us to hone and refine our final messages to ensure they provide a nuanced and balanced picture of the existing evidence. 
+Summary of the literature 
+identified
+Following screening and quality review, a total 
+of 169 sources (including existing reviews) were reviewed. Figure 12 shows a flow diagram 
+showing the steps taken during the systematic search to arrive at the final number of articles. 
+Included studies consisted of 157 academic 
+sources (journal articles, book chapters and conference proceedings) and 12 grey reports (6 policy and industry reports, surveys). Table 
+12 shows the breakdown of studies included in the analysis.
+Figure 12 Flow diagram summarising number of studies identified and excluded at different stages 
+in the review process
+Systematic searches of online 
+databases (Scopus, Academic Science Complete and Pubmed) (2009–2019)
+Potentially relevant identified literature (n=3063)Literature not relevant based on title/abstract screening (n=2579)
+Literature excluded following 
+quality review and because unable to access (n=34)Literature excluded following 
+refinement of criteria (n=281)Literature meeting initial inclusion/exclusion criteria (n=484)
+Literature meeting refined 
+inclusion/exclusion criteria (n=203)
+Final literature included in 
+analysis (n=169)Consultation with policy and academic stakeholders (July 2019)Snowballing

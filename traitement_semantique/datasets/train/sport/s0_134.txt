@@ -1,0 +1,20 @@
+CO2 and the regeneration of oxaloacetate. As a result of one acetyl
+CoA entering and traversing through the cycle, one GTP (guanosinetriphosphate, energetically equivalent to an ATP), one FADH2and three NADH are formed. These reducing equivalents then enter
+the respiratory chain (or electron transport chain ) where ATP s
+are generated through the process of oxidative phosphorylation
+(each NADH results in the generation of three ATPs, and eachFADHZ generates two ATPs). Thus twelve ATP molecules are gen-erated for each molecule of acetyl CoA that traverses through thecycle.
+Several factors can be rate limiting to the TCA cycle. This cycle
+can only function under aerobic conditions, as oxygen serves as the
+ﬁnal oxidant of the reducing equivalents. Thus the cycle can be par-
+tially or totally inhibited if oxygen availability is reduced (hypoxicconditions) or totally absent (anoxic conditions) respectively. Thedehydrogenase enzymes of the TCA cycle are also sensitive to theredox (reduction-oxidation) potential in the cell i.e. NADH/NAD+ratio. If this redox potential is high, the dehydrogenases will beinhibited and likewise are stimulated by a decrease in the redoxpotential.
+Further reading : Brooks et al. (1996), McArdle et al. (2000)
+LACTATE THRESHOLD
+A point during an exercise bout of increasing intensity when theblood lactate concentration increases abruptly above resting levels. It
+is thought to reﬂect the interaction of the aerobic and anaerobic
+energy systems, and is usually expressed in terms of the percentage ofmaximal oxygen uptake (per cent VO
+2Max ). Many researchers
+consider lactate threshold to be a good indicator of an athlete’spotential for endurance exercise.
+LANDSCAPE
+For those studying sports geography , the question of landscapes,
+their impact on sport and the impact of sport upon them, has been a keyarea of research. Landscapes can take a variety of forms, for examplephysical, social, political and virtual and are a combination of whatcan be seen (the assemblage of objects that make up a landscape) andLACTATE THRESHOLD
+118

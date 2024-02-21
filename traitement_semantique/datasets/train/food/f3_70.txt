@@ -1,0 +1,20 @@
+40
+Food consumption in the UK
+Box 6 Examples of front-of-pack food labelling interventions used in the UK and their effectiveness 
+Health-focused nutritional labels  
+Guideline Daily Amount labels display information about the product including calories and 
+key nutrients and their percentage contribution to daily adult requirements. The Guideline Daily Amount labelling scheme is non-interpretive, in that it does not provide an evaluative judgement about the nutritional quality of a product.
+Front-of-pack traffic light labelling is an intervention introduced by the UK Food Standards Agency 
+in 2006. Traffic light labelling is an interpretive scheme that provides information about key nutrients but aims to also provide advice and help consumers interpret the information using a traffic light scheme. The labels consist of three colour-coded lights that indicate the level of fat, saturated fat, sugar and salt in the product. A red light indicates a high level of the nutrient, an amber light indicates a medium level and a green light indicates a low level. In 2016, traffic light labelling was displayed on approximately two-thirds of UK products (Morrison, 2016).
+Sustainability and ethical labels  
+There are a variety of sustainable and ethical labels on the market. A few examples are provided below:
+Red Tractor is a food assurance scheme operated by Assured Food Standards, an independent 
+organisation, and was launched in 2000. The label recognises UK food and drink that has been 
+produced to a high quality across the food chain, and as such is traceable. 
+Carbon Footprint  is operated by the Carbon Trust. It informs consumers about the carbon 
+footprint of a product. RSPCA Assured is a farm assurance scheme that was introduced by the Royal Society for the 
+Prevention of Cruelty to Animals in 1994. The aim of the scheme is to improve farm animal welfare and offers assured traceability across the whole supply chain. In 2018, there were 1,301 RSPCA Assured labelled products on the market (RSPCA Assured, 2018). 
+Marine Stewardship Council is a sustainable seafood eco-label that was established by the 
+World Wildlife Fund and Unilever in 1996 and has operated as a not-for-profit since 1999. The label operates as a certification scheme for sustainable fisheries and to help promote sustainable fishing to maintain seafood stocks. In 2018, just under one-third of all seafood bought in the UK retail sector had a Marine Stewardship Council label (Clark, 2019).
+Evidence of effectiveness  
+There is considerable evidence from systematic reviews comparing different types of health-focused nutritional labelling interventions on consumer understanding and behaviour. The evidence suggests that nutritional front-of-pack labels can improve the consumption of healthier food (Campos et al., 2011; Cecchini & Warin, 2016; Shangguan et al., 2019). Traffic light schemes appear to be the most effective at changing consumer practices (Cecchini & Warin, 2016). However, there is likely to be a bidirectional relationship, in that labels may improve diet but use of labels is also likely to be greatest in individuals that are already health conscious (Campos et al., 2011). Moreover, the evidence also consistently indicates that use of labels is greatest in individuals with a higher income and education level, and thus may serve to widen health inequalities.
