@@ -2,6 +2,7 @@ import os
 import pickle
 from sklearn.naive_bayes import GaussianNB
 from pdfminer.high_level import extract_text
+import customtkinter as ctk
 
 # Load the model and vocabularies
 with open('datasets/models.gnb', 'rb') as f:
@@ -22,3 +23,17 @@ def prediction(chemin):
     resultat = gnb.predict([prediction])
     
     return resultat[0]
+
+
+
+
+
+
+# Create the main application window
+root = ctk.CTk(fg_color="black")
+root.title("FilTra")
+root.geometry("400x720")
+
+
+# Start the main event loop
+root.mainloop()
