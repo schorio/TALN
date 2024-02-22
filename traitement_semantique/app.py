@@ -49,6 +49,9 @@ def run_prediction():
             # Update the text widget with the result of the current file
             result_text.insert(ctk.END, f"{nom_fichier} = {resultat}\n")
             
+            # Rename the file
+            os.rename(chemin, os.path.join(dossier, f"[{resultat}] {nom_fichier}"))
+            
             # Update the progress bar
             progress['value'] += 1
             
