@@ -4,7 +4,7 @@ from sklearn.naive_bayes import GaussianNB
 from pdfminer.high_level import extract_text
 import customtkinter as ctk
 from PIL import Image, ImageTk
-from tkinter import filedialog, Label
+from tkinter import filedialog, ttk, Label
 
 # Load the model and vocabularies
 with open('datasets/models.gnb', 'rb') as f:
@@ -32,6 +32,13 @@ def run_prediction():
     titres = []
     verif = []
     
+    # Get the total number of PDF files
+    total = len([f for f in os.listdir(dossier) if f.endswith('.pdf')])
+
+    # Initialize the progress bar
+    progress['maximum'] = total
+    progress['value'] = 0
+    
     for i, nom_fichier in enumerate(os.listdir(dossier)):
         titres.append(nom_fichier)
         if nom_fichier.endswith('.pdf'):
@@ -41,6 +48,9 @@ def run_prediction():
             
             # Update the text widget with the result of the current file
             result_text.insert(ctk.END, f"{nom_fichier} = {resultat}\n")
+            
+            # Update the progress bar
+            progress['value'] += 1
             
             # Update the GUI
             root.update()
@@ -66,6 +76,9 @@ result_text.pack(padx=10, pady=10)
 
 button = ctk.CTkButton(root, text="Parcourir", command=run_prediction)
 button.pack(padx=10, pady=10)
+
+progress = ttk.Progressbar(root, length=300, mode='determinate')
+progress.pack(padx=10, pady=10)
 
 
 # Start the main event loop
