@@ -4,7 +4,7 @@ from sklearn.naive_bayes import GaussianNB
 from pdfminer.high_level import extract_text
 import customtkinter as ctk
 from PIL import Image, ImageTk
-from tkinter import Label
+from tkinter import filedialog, Label
 
 # Load the model and vocabularies
 with open('datasets/models.gnb', 'rb') as f:
@@ -25,6 +25,10 @@ def prediction(chemin):
     resultat = gnb.predict([prediction])
     
     return resultat[0]
+
+# Function to run the prediction on all PDF files in a directory
+def run_prediction():
+    dossier = filedialog.askdirectory(title="Selectionner le dossier à traiter")
 
 
 
