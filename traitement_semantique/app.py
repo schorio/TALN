@@ -42,6 +42,9 @@ photo = ImageTk.PhotoImage(image)
 bouton = Label(root, image=photo, borderwidth=0)
 bouton.pack()
 
+result_text = ctk.CTkTextbox(root, width=300, height=300)
+result_text.pack(padx=10, pady=10)
+
 
 # Start the main event loop
 root.mainloop()
