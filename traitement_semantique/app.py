@@ -29,6 +29,21 @@ def prediction(chemin):
 # Function to run the prediction on all PDF files in a directory
 def run_prediction():
     dossier = filedialog.askdirectory(title="Selectionner le dossier à traiter")
+    titres = []
+    verif = []
+    
+    for i, nom_fichier in enumerate(os.listdir(dossier)):
+        titres.append(nom_fichier)
+        if nom_fichier.endswith('.pdf'):
+            chemin = os.path.join(dossier, nom_fichier)
+            resultat = prediction(chemin)
+            verif.append(resultat)
+            
+            # Update the text widget with the result of the current file
+            result_text.insert(ctk.END, f"{nom_fichier} = {resultat}\n")
+            
+            # Update the GUI
+            root.update()
 
 
 
